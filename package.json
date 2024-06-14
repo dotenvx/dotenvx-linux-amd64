@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-linux-amd64",
-  "version": "0.43.2",
+  "version": "0.44.1",
   "description": "dotenvx-linux-amd64 binary",
   "repository": {
     "type": "git",
