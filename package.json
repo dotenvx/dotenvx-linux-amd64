@@ -1,0 +1,14 @@
+{
+  "name": "@dotenvx/dotenvx-linux-amd64",
+  "version": "0.1.0",
+  "description": "dotenvx-linux-amd64 binary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotenvx/dotenvx-linux-amd64.git"
+  },
+  "author": "@motdotla",
+  "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  }
+}
