@@ -2,4 +2,8 @@
 
 > dotenvx-linux-amd64 binary
 
+[![npm version](https://img.shields.io/npm/v/@dotenvx/dotenvx-linux-amd64.svg)](https://www.npmjs.com/package/@dotenvx/dotenvx-linux-amd64)
+
+[see documentation](https://github.com/dotenvx/dotenvx)
+
 &nbsp;
